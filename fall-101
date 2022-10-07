@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=>, initial-scale=1.0">
+<title>Document</title><link rel="stylesheet" href="style.css">
+</head>
+<body>
+<h1>Code Immersives</h1>
+<h2 id = "fall" > Fall Term</h2>
+<h4>Web Development</h4>
+<div>Anything you want!</div>
+<p>Here is a description of the items</p>
+
+<ul>
+<li>Eggs<li>
+<li>Apples</li>
+<li>Chips</li>
+<ul>
+
+<ol>
+<li>Red</li>
+<li>Blue</li>
+<li>Yellow</li>
+</ol>
+
+<ahref="https://www.google.com/">Click Here</a>
+
+
+
+
+
+<img height= "300px" width= "300px"
+src="https://www.connshg.com/Resources/71bb7bb4-7aa4-4f1e-86fa-05577a0691bf/welovedogs-01.jpg" alt="">
+</body>
+</html>
