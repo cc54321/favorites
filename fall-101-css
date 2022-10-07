@@ -1,1 +1,14 @@
 
+h1{
+color: rgb(152, 61, 61);
+border: 1px solid chocolate;
+text-align: center;
+}
+p{
+text-align: right;
+}
+#fall {
+
+color: coral;
+
+}
